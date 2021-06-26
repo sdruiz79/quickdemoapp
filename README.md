@@ -1,2 +1,2 @@
-# quickdemoapp
+# Quick Demo Application
 quick demo application
