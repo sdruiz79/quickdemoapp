@@ -1,2 +1,3 @@
 # Quick Demo Application
-quick demo application
+Good Practice
+It's so important to make a great first impression
